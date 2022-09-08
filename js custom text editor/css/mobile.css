@@ -37,15 +37,15 @@
     }
 
     .movie-more {
-        background-color: rgba(137, 43, 224, 0.1);
+        background-color: rgb(136, 43, 224);
     }
 
     .music-more {
-        background-color: rgb(219, 58, 0, 0.1);
+        background-color: rgb(219, 58, 0);
     }
 
     .book-more {
-        background-color: rgba(172, 255, 47, 0.1);
+        background-color: rgb(107, 167, 17);
     }
 
     .movie-more,

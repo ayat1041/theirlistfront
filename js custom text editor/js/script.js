@@ -40,7 +40,7 @@ menuBtn.addEventListener('click', () => {
   if(!menuOpen) {
     menuBtn.classList.add('open');
     menuOpen = true;
-    subMenu.style.marginTop = "0";
+    subMenu.style.marginTop = "50px";
     subMenu.style.transition = "all 250ms ease-in-out";
   } else {
     menuBtn.classList.remove('open');
